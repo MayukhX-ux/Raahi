@@ -84,6 +84,11 @@ Raahi adheres to premium visual standards designed to stand out:
 
 ---
 
+## Deployed app link 
+raahi-two.vercel.app
+
+---
+
 ## 📄 License
 
 This project is licensed under the MIT License.
