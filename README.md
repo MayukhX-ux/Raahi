@@ -85,7 +85,8 @@ Raahi adheres to premium visual standards designed to stand out:
 ---
 
 ## Deployed app link 
-raahi-two.vercel.app
+
+https://raahi-two.vercel.app/
 
 ---
 
