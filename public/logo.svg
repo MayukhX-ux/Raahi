@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="100%" height="100%" fill="none">
+  <!-- Paper Airplane Logo Graphic -->
+  <g transform="translate(0, -10)">
+    <!-- Main Right Wing (Bright Orange) -->
+    <path d="M 130 275 L 380 180 L 295 310 Z" fill="#f36c21" />
+    
+    <!-- Under Fold/Crease (Darker Accent Orange) -->
+    <path d="M 130 275 L 295 310 L 200 330 Z" fill="#d35400" />
+    
+    <!-- Tail Flap/Keel (Bright Orange) -->
+    <path d="M 200 330 L 210 370 L 295 310 Z" fill="#f36c21" />
+  </g>
+
+  <!-- Raahi Text Brand -->
+  <text 
+    x="250" 
+    y="385" 
+    font-family="system-ui, -apple-system, 'Inter', 'Segoe UI', Roboto, sans-serif" 
+    font-weight="800" 
+    font-size="76" 
+    fill="#f36c21" 
+    text-anchor="middle" 
+    letter-spacing="-1px"
+  >Raahi</text>
+</svg>

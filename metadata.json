@@ -1,0 +1,6 @@
+{
+  "name": "Raahi",
+  "description": "A professional travel planner for creating, managing, and tracking your journeys, routes, and checkpoints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

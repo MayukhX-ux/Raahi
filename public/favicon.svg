@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Paper Airplane Icon for Favicon -->
+  <!-- Main Right Wing (Bright Orange) -->
+  <path d="M 52 110 L 152 72 L 118 124 Z" fill="#f36c21" />
+  
+  <!-- Under Fold/Crease (Darker Accent Orange) -->
+  <path d="M 52 110 L 118 124 L 80 132 Z" fill="#d35400" />
+  
+  <!-- Tail Flap/Keel (Bright Orange) -->
+  <path d="M 80 132 L 84 148 L 118 124 Z" fill="#f36c21" />
+</svg>
